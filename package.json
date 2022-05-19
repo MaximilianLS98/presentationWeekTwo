@@ -1,0 +1,14 @@
+{
+  "name": "statelesspresentationweektwo",
+  "version": "1.0.0",
+  "description": "presentation from stateless mob",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Maximilian L S",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.0.0"
+  }
+}
