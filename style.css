@@ -7,9 +7,60 @@ body {
     -moz-osx-font-smoothing: grayscale;
     text-align: center;
     align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url('/media/huliuscseacerdarker.jpg');
+    background-position: absolute;
+    background-position-x: center;
+    color: aliceblue;
+}
+#romToAraInput {
+    border: none;
+    width: 30%;
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 3rem;
+    text-align: center;
+}
+
+#romToAraBtn {
+    background-color: #7145bd; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#romtoaraResult {
+    margin-top: 150px!important;
+    margin-bottom: 3rem;
+    font-size: 44px;
+    max-width: 80%;
+    margin: auto;
+    color: aliceblue;
 }
 
 #romtoara {
     margin: 10px;
     margin-top: 50px;
 }
+.antimargin {
+    margin-top: -25px;
+}
+#title {
+    margin-bottom: 50px;
+}
+.codeExamples {
+    max-width: 600px;
+    max-height: fit-content;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
