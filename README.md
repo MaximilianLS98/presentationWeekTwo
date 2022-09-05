@@ -1,4 +1,4 @@
-# Roman and Arabic number converter
+# Roman / Arabic number converter
 ## And FizzBuzz "Machine"
 
 This is a project made during our SALT bootcamp for our second week presentation. 
